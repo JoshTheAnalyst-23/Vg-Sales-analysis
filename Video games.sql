@@ -1,3 +1,5 @@
+CREATE DATABASE VideoGames;
+
 USE VideoGames;
 
 SELECT * FROM Games;
